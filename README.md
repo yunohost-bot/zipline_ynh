@@ -20,8 +20,6 @@ Zipline is a ShareX/file upload server that is easy to use, packed with features
 
 **Shipped version:** 3.7.4~ynh1
 
-**Demo:** https://demo.example.com
-
 ## Screenshots
 
 ![Screenshot of Zipline](./doc/screenshots/screenshot.png)

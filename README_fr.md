@@ -21,8 +21,6 @@ Ceci est une fausse description des fonctionalités de l'app
 
 **Version incluse :** 3.7.4~ynh1
 
-**Démo :** https://demo.example.com
-
 ## Captures d’écran
 
 ![Capture d’écran de Zipline](./doc/screenshots/screenshot.png)

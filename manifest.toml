@@ -14,7 +14,7 @@ maintainers = ["eric_G"]
 [upstream]
 license = "MIT"
 website = "https://zipline.diced.sh/"
-admindoc = "https://yunohost.org/packaging_apps"
+admindoc = "https://zipline.diced.sh/docs/get-started"
 code = "https://github.com/diced/zipline"
 
 [integration]

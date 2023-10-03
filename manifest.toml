@@ -1,0 +1,74 @@
+#:schema https://raw.githubusercontent.com/YunoHost/apps/master/schemas/manifest.v2.schema.json
+
+packaging_format = 2
+
+id = "zipline"
+name = "Zipline"
+description.en = "ShareX/file upload server"
+description.fr = "Serveur de téléchargement ShareX/fichier"
+
+version = "3.7.4~ynh1"
+
+maintainers = ["eric_G"]
+
+[upstream]
+license = "MIT"
+website = "https://zipline.diced.sh/"
+demo = "https://demo.example.com"
+admindoc = "https://yunohost.org/packaging_apps"
+code = "https://github.com/diced/zipline"
+
+[integration]
+yunohost = ">= 11.2"
+architectures = "all"
+multi_instance = true
+
+ldap = false
+
+sso = false
+
+disk = "50M"
+ram.build = "50M"
+ram.runtime = "50M"
+
+[install]
+    [install.domain]
+    type = "domain"
+
+    [install.path]
+    type = "path"
+    default = "/zipline"
+
+    [install.init_main_permission]
+    type = "group"
+    default = "visitors"
+
+[resources]
+
+    [resources.sources]
+
+        [resources.sources.main]
+        url = "https://github.com/diced/zipline/archive/refs/tags/v3.7.4.tar.gz"
+        sha256 = "472fab808d5503b2ad0928a0947181d63ba3cd88ab2ddc7b2aae8b984d93fefb"
+        autoupdate.strategy = "latest_github_tag"
+
+    [resources.system_user]
+
+    [resources.install_dir]
+
+    [resources.data_dir]
+    subdirs = ["uploads"]
+
+    [resources.permissions]
+    main.url = "/"
+
+    [resources.ports]
+
+    [resources.apt]
+    packages = "postgresql"
+    extras.yarn.repo = "deb https://dl.yarnpkg.com/debian/ stable main"
+    extras.yarn.key = "https://dl.yarnpkg.com/debian/pubkey.gpg"
+    extras.yarn.packages = "yarn"
+
+    [resources.database]
+    type = "postgresql"

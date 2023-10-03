@@ -1,0 +1,1 @@
+Les informations d'identification par défaut sont « administrator » et « password ». Une fois connecté, veuillez immédiatement modifier les informations pour quelque chose de plus sécurisé.

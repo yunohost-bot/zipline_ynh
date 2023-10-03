@@ -1,0 +1,1 @@
+ The default credentials are "administrator" and "password". Once you login please immediately change the details to something more secure.

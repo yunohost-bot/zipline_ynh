@@ -16,8 +16,7 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 ## Vue d’ensemble
 
-Ceci est une fausse description des fonctionalités de l'app
-
+Zipline est un serveur de téléchargement ShareX/fichier facile à utiliser, doté de fonctionnalités et d'une configuration simple !
 
 **Version incluse :** 3.7.4~ynh1
 
@@ -28,7 +27,7 @@ Ceci est une fausse description des fonctionalités de l'app
 ## Documentations et ressources
 
 * Site officiel de l’app : <https://zipline.diced.sh/>
-* Documentation officielle de l’admin : <https://yunohost.org/packaging_apps>
+* Documentation officielle de l’admin : <https://zipline.diced.sh/docs/get-started>
 * Dépôt de code officiel de l’app : <https://github.com/diced/zipline>
 * Signaler un bug : <https://github.com/YunoHost-Apps/zipline_ynh/issues>
 

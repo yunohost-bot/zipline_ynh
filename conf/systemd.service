@@ -1,5 +1,5 @@
 [Unit]
-Description=RAWGraphs
+Description=Zipline: ShareX/file upload server
 After=network.target
 
 [Service]

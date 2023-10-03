@@ -1,1 +1,1 @@
-Ceci est une fausse description des fonctionalités de l'app
+Zipline est un serveur de téléchargement ShareX/fichier facile à utiliser, doté de fonctionnalités et d'une configuration simple !

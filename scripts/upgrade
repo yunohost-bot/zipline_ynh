@@ -33,6 +33,7 @@ then
 fi
 
 chown -R $app:www-data "$install_dir"
+chmod 755 "$data_dir/uploads"
 
 #=================================================
 # UPGRADE DEPENDENCIES

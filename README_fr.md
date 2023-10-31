@@ -29,6 +29,7 @@ Zipline est un serveur de téléchargement ShareX/fichier facile à utiliser, do
 * Site officiel de l’app : <https://zipline.diced.sh/>
 * Documentation officielle de l’admin : <https://zipline.diced.sh/docs/get-started>
 * Dépôt de code officiel de l’app : <https://github.com/diced/zipline>
+* YunoHost Store: <https://apps.yunohost.org/app/zipline>
 * Signaler un bug : <https://github.com/YunoHost-Apps/zipline_ynh/issues>
 
 ## Informations pour les développeurs

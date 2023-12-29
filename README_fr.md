@@ -18,7 +18,7 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 Zipline est un serveur de téléchargement ShareX/fichier facile à utiliser, doté de fonctionnalités et d'une configuration simple !
 
-**Version incluse :** 3.7.4~ynh1
+**Version incluse :** 3.7.7~ynh1
 
 ## Captures d’écran
 

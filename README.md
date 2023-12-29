@@ -18,7 +18,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 Zipline is a ShareX/file upload server that is easy to use, packed with features, and with an easy setup! 
 
-**Shipped version:** 3.7.4~ynh1
+**Shipped version:** 3.7.7~ynh1
 
 ## Screenshots
 
@@ -29,6 +29,7 @@ Zipline is a ShareX/file upload server that is easy to use, packed with features
 * Official app website: <https://zipline.diced.sh/>
 * Official admin documentation: <https://zipline.diced.sh/docs/get-started>
 * Upstream app code repository: <https://github.com/diced/zipline>
+* YunoHost Store: <https://apps.yunohost.org/app/zipline>
 * Report a bug: <https://github.com/YunoHost-Apps/zipline_ynh/issues>
 
 ## Developer info

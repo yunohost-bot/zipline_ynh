@@ -37,11 +37,8 @@ chmod 755 "$data_dir/uploads"
 #=================================================
 ynh_script_progression --message="Adding system configurations related to $app..." --weight=1
 
-# Create a dedicated NGINX config using the conf/nginx.conf template
 ynh_add_nginx_config
 
-env_path="$PATH"
-# Create a dedicated systemd config
 ynh_add_systemd_config
 
 yunohost service add $app --description="ShareX/file upload server" --log="/var/log/$app/$app.log"

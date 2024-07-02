@@ -5,7 +5,7 @@ EZ editatu eskuz.
 
 # Zipline YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/zipline.svg)](https://dash.yunohost.org/appci/app/zipline) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/zipline.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/zipline.maintain.svg)
+[![Integrazio maila](https://dash.yunohost.org/integration/zipline.svg)](https://ci-apps.yunohost.org/ci/apps/zipline/) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/zipline.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/zipline.maintain.svg)
 
 [![Instalatu Zipline YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=zipline)
 

@@ -5,7 +5,7 @@ Il NE doit PAS être modifié à la main.
 
 # Zipline pour YunoHost
 
-[![Niveau d’intégration](https://dash.yunohost.org/integration/zipline.svg)](https://dash.yunohost.org/appci/app/zipline) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/zipline.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/zipline.maintain.svg)
+[![Niveau d’intégration](https://dash.yunohost.org/integration/zipline.svg)](https://ci-apps.yunohost.org/ci/apps/zipline/) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/zipline.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/zipline.maintain.svg)
 
 [![Installer Zipline avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=zipline)
 
